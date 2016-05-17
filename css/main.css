@@ -1,0 +1,19 @@
+#mapa h1 {
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 10%; }
+#mapa iframe {
+  padding: 5%; }
+#mapa input {
+  width: 80%;
+  height: 3em;
+  margin-top: 5%; }
+#mapa .mensaje {
+  height: 10em;
+  padding-bottom: 18%; }
+#mapa .btn-submit {
+  background-color: #A9E2F3;
+  color: white; }
+
+/*# sourceMappingURL=main.css.map */

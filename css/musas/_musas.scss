@@ -1,0 +1,49 @@
+#info {
+
+	margin-top: -40%;
+
+	img{
+
+		width: 70%;
+		margin-left: 15%;
+
+	}
+
+	h1, h2{
+
+		font-family: 'Marcellus SC', serif;
+		color: #fff;
+		text-align: center;
+	}
+
+	p {
+		
+		color: #fff;
+		text-align: justify;
+	}
+
+	i {
+
+		font-size: 15em;
+		color: rgba(209, 44, 179, 0.45);
+		margin-left: 25%;
+		margin-top: 15%;
+	}
+}
+
+#mus{
+
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 600px;
+}
+
+.musas {
+
+	border: 2px solid silver;
+	border-radius: 80%;
+	padding: 15%;
+	box-shadow: 3px;
+	background-color: rgba(149, 163, 179, 0.75);
+}

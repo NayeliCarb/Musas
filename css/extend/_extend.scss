@@ -1,0 +1,38 @@
+.tira {
+
+	
+	
+	img {	
+		width: 35%;
+		padding: 2%;
+		border: 1px solid silver;
+		margin-left: 3%;
+	}
+
+}
+
+.lt-1 {
+
+	@extend .tira;
+}
+
+
+
+
+.tira-2 {
+
+	
+	
+	img {	
+		width: 35%;
+		padding: 2%;
+		border: 1px solid silver;
+		margin-left: 3%;
+	}
+
+}
+
+.lt-2 {
+
+	@extend .tira-2;
+}

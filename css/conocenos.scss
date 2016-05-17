@@ -1,0 +1,90 @@
+@import "header/_head";
+@import "nav/_nav";
+@import "musas/_musas";
+@import "contacto/_contacto";
+@import "extend/_extend";
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans|Quicksand);
+@import url(https://fonts.googleapis.com/css?family=Marcellus+SC);
+@import url(https://fonts.googleapis.com/css?family=Marcellus+SC|Lobster);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Raleway|Amaranth);
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
+
+#back {
+
+	background-image: url(../images/woman.jpg);
+	width: 100%;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 605px;
+	margin-top: -1.5%;
+	opacity: 0.55;
+	
+}
+
+
+.deco{
+
+ img {
+
+	margin-left: 43%;
+	width: 20%;
+
+
+	}
+ p{
+ 	margin-bottom: 8%;
+ 	text-align: center;
+ 	font-size: 16px;
+ 	font-family: 'Oswald', sans-serif;
+ 	color: #0B2161;
+ }	
+
+}
+
+
+.in {
+
+	background-color: rgba(12, 12, 13, 0.5);
+	position: relative;
+	margin-top: -50%;
+	margin-left: 20%;
+	width: 65%;
+	height: 320px;
+
+}
+.under {
+	h2 {
+		color: #fff;
+		text-align: center;
+	}
+}
+
+#myCarousel {
+
+	img {
+
+		width: 100%;
+		height: 600px;
+		
+	}
+}
+
+#carrito {
+
+	ul li {
+
+		display: inline;
+		list-style-type: none;
+	}
+
+	ul>li>img {
+		list-style: none;
+		width: 30%;
+		height: 250px;
+		display: inline !important;
+		margin: 3%;
+
+	}
+}
